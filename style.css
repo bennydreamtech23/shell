@@ -267,6 +267,9 @@ button > a:hover{
 .img-holder1 img{
   width: 199px;
 }
+.card{
+    width:335px;
+}
 
 /*contact*/
 .contact h3{
@@ -342,6 +345,9 @@ border-top-right-radius: 50%;
    margin: 0 auto;
    border-radius: 7px;
 }
+    .card{
+        width:360px;
+        }
 
 .contact p{
   font-size: 10px;
