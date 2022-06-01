@@ -5,6 +5,12 @@ body {
     font-family: 'Lato' sans-serif;
 }
 
+html, body{
+    overflow-x:hidden;
+    width:100%;
+  margin:0;
+    padding:0;
+    }
 *{
   margin: 0;
   padding: 0;
@@ -321,6 +327,13 @@ border-top-right-radius: 50%;
 
 
 @media only screen and (max-width: 768px){
+    html, body {
+        overflow-x:hidden;
+        width:100%;
+        margin:0;
+        padding:0;
+        }
+    
   .icon-holder p{
   font-family: inherit;
   font-size: 13px;
